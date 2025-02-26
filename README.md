@@ -2,7 +2,7 @@
 GEOSPATIAL ANALYSIS
 
 
-1. Create a new shapefile layer\n
+1. Create a new shapefile layer/n
   1.1. set geometry type to polygon
   1.2. give a name for the layer
 3. Right click on the layer and toogle editing
