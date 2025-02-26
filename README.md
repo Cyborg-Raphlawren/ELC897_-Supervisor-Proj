@@ -19,10 +19,10 @@ GEOSPATIAL ANALYSIS
     4.3.1. Output field name = y2\
     4.3.2. Field type = real and precision = 5\
     4.3.3. Expression = y($geometry)\
-  4.1. Disable editing mode (click on pencil) and save\
-6. Click the temporary scratch layer icon to save the created intersection layer\
-7. Right click on the intersection layer and export the csv file\
-8. Open the csv and copy the x2 and y2 values to test.csv\
+  4.1. Disable editing mode (click on pencil) and save
+6. Click the temporary scratch layer icon to save the created intersection layer
+7. Right click on the intersection layer and export the csv file
+8. Open the csv and copy the x2 and y2 values to test.csv
 
 Next steps\
 1. Create more shapes (read prophet manual to see how many points it
