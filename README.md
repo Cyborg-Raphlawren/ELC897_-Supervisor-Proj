@@ -4,7 +4,7 @@ GEOSPATIAL ANALYSIS
 
 1. Create a new shapefile layer\
   1.1. set geometry type to polygon\
-  1.2. give a name for the layer\
+  1.2. give a name for the layer
 3. Right click on the layer and toogle editing\
   2.1. Add elipse from center and 2 points\
 4. Go to processing toolbar and find Intersection\
@@ -24,8 +24,8 @@ GEOSPATIAL ANALYSIS
 7. Right click on the intersection layer and export the csv file
 8. Open the csv and copy the x2 and y2 values to test.csv
 
-Next steps\
+Next steps
 1. Create more shapes (read prophet manual to see how many points it
-needs to work)\
-2. Use pandas to read all lines in the csvs\
-3. Use prophet to predict the next points\
+needs to work)
+2. Use pandas to read all lines in the csvs
+3. Use prophet to predict the next points
