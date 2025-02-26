@@ -1,5 +1,5 @@
 # DLSC804
-GEOSPATIAL ANALYSIS
+GEOSPATIAL ANALYSIS with QGIS
 
 
 1. Create a new shapefile layer\
