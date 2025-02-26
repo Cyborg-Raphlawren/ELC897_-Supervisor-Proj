@@ -6,9 +6,9 @@ GEOSPATIAL ANALYSIS
   1.1. set geometry type to polygon\
   1.2. give a name for the layer
 3. Right click on the layer and toogle editing\
-  2.1. Add elipse from center and 2 points\
+  2.1. Add elipse from center and 2 points
 4. Go to processing toolbar and find Intersection\
-  3.1. Do the intersection between the circle lines and the created layer\
+  3.1. Do the intersection between the circle lines and the created layer
 5. Right click on the intersection layer and open attribute table\
   4.1. Enable editing mode (click on pencil)\
   4.2. Open field calculator (ctrl+i)\
