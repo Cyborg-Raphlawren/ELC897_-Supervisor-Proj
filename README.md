@@ -25,8 +25,20 @@ GEOSPATIAL ANALYSIS with QGIS
 8. Right click on the intersection layer and export the csv file
 9. Open the csv and copy the x2 and y2 values to test.csv
 
+10. For holes in the shapes
+    10.1. Click preprocessing
+    10.2. Vector geometry
+    10.3. Multipart to singleparts
+    10.4. Click on the intersection layer.
+
 Next steps
 1. Create more shapes (read prophet manual to see how many points it
 needs to work)
 2. Use pandas to read all lines in the csvs
 3. Use prophet to predict the next points
+
+
+Main Project:  
+For the holes in the shape, after the intersection the shapes with the radical lines, 
+for eacg intersections -- seperate each breaks in the shape as independent,
+Preprocessing -- Vector geometry -- Multipart to single parts 
