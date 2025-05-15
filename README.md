@@ -31,6 +31,8 @@ GEOSPATIAL ANALYSIS with QGIS
     10.3. Multipart to singleparts
     10.4. Click on the intersection layer.
 
+11. Export the csv for each files
+
 Next steps
 1. Create more shapes (read prophet manual to see how many points it
 needs to work)
