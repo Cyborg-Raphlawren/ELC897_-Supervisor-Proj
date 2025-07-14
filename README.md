@@ -19,19 +19,20 @@ GEOSPATIAL ANALYSIS with QGIS
   4.3. Open field calculator (ctrl+i)\
     4.3.1. Output field name = y2\
     4.3.2. Field type = real and precision = 5\
-    4.3.3. Expression = y($geometry)\
+    4.3.3. Expression = y(start_point($geometry))\
+   4.3.4. Set the date Expression = to_date('2012-05-04')
   4.1. Disable editing mode (click on pencil) and save
-7. Click the temporary scratch layer icon to save the created intersection layer
-8. Right click on the intersection layer and export the csv file
-9. Open the csv and copy the x2 and y2 values to test.csv
+8. Click the temporary scratch layer icon to save the created intersection layer
+9. Right click on the intersection layer and export the csv file
+10. Open the csv and copy the x2 and y2 values to test.csv
 
-10. For holes in the shapes
+11. For holes in the shapes
     10.1. Click preprocessing
     10.2. Vector geometry
     10.3. Multipart to singleparts
     10.4. Click on the intersection layer.
 
-11. Export the csv for each files
+12. Export the csv for each files
 
 Next steps
 1. Create more shapes (read prophet manual to see how many points it
