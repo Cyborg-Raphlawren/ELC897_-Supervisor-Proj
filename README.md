@@ -15,7 +15,7 @@ GEOSPATIAL ANALYSIS with QGIS
   4.2. Open field calculator (ctrl+i)\
     4.2.1. Output field name = x2\
     4.2.2. Field type = real and precision = 5\
-    4.2.3. Expression = x($geometry)\
+    4.2.3. Expression = x(start_point($geometry))\
   4.3. Open field calculator (ctrl+i)\
     4.3.1. Output field name = y2\
     4.3.2. Field type = real and precision = 5\
