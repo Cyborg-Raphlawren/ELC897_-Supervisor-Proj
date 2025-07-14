@@ -20,7 +20,7 @@ GEOSPATIAL ANALYSIS with QGIS
     4.3.1. Output field name = y2\
     4.3.2. Field type = real and precision = 5\
     4.3.3. Expression = y(start_point($geometry))\
-   4.3.4. Set the date Expression = to_date('2012-05-04')
+   4.3.4. Set the date Expression = to_date('2012-05-04')\
   4.1. Disable editing mode (click on pencil) and save
 8. Click the temporary scratch layer icon to save the created intersection layer
 9. Right click on the intersection layer and export the csv file
